@@ -1,0 +1,22 @@
+# Quarto artifacts
+.quarto
+
+# Results of compilation
+*.pdf
+*.html
+
+# Imported
+_extensions/
+
+# Build artifacts
+_acuity/
+index_files/
+index.typ
+site_libs/
+renv/library
+
+# Other
+**/.DS_Store
+
+/.quarto/
+**/*.quarto_ipynb
