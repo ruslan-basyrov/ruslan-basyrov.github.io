@@ -3,6 +3,10 @@ website:
     style: "floating"
     collapsible: true
 
+project:
+  type: website
+  output-dir: _acuity
+
 format:
   acuity-html:
     respect-user-color-scheme: true
