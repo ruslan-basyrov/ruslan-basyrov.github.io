@@ -2,6 +2,13 @@ website:
   sidebar:
     style: "floating"
     collapsible: true
+    search: false
+    tools:
+      - icon: github
+        href: https://github.com/ruslan-basyrov/acuity
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ruslan-basyrov/
+        aria-label: LinkedIn
 
 project:
   type: website
@@ -10,4 +17,5 @@ project:
 format:
   acuity-html:
     respect-user-color-scheme: true
+    format-links: false
   acuity-typst: default
